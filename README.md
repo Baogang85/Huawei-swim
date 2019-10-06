@@ -1,2 +1,2 @@
 # Huawei-swim
-Huawei Pro Band 3 swim import try
+Huawei Band 3 Pro swim data import to a Strava file.
